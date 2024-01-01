@@ -1,6 +1,6 @@
 ## Deep-CNN-Image-Classifier
 
-Dataset for the CNN model displayed in the jupyter notebook above can be found in: <a href = "https://www.kaggle.com/datasets/puneet6060/intel-image-classification" Here </a>
+Dataset for the CNN model displayed in the jupyter notebook above can be found in: "https://www.kaggle.com/datasets/puneet6060/intel-image-classification" 
 
 ### Goal
 The goal of this repo is to make use of convolutional neural network to predict images by AI. 
