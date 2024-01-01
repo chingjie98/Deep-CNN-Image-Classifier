@@ -2,13 +2,6 @@
 
 Dataset for the CNN model displayed in the jupyter notebook above can be found in: "https://www.kaggle.com/datasets/puneet6060/intel-image-classification" 
 
-### Goal
-The goal of this repo is to make use of convolutional neural network to predict images by AI. 
-
-### Motivation
-The motivation behind this repo is to get familiar with how CNN works with images before applying ANN to the flattened image layer. <br>
-I have had previous experience with ANN, but not with CNN. Hence this repo will give me a better understanding and learning experience. 
-
 ### How CNN Works 
 
 ### 1. Feature Detection (Convolution Operation)
